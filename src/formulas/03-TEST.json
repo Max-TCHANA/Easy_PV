@@ -1,0 +1,342 @@
+﻿[
+    {
+        "Cell":  "F64",
+        "Formula":  "=C64*D64*E64"
+    },
+    {
+        "Cell":  "F65",
+        "Formula":  "=C65*D65*E65"
+    },
+    {
+        "Cell":  "G65",
+        "Formula":  "=F64+F65"
+    },
+    {
+        "Cell":  "H65",
+        "Formula":  "=C64*D64+C65"
+    },
+    {
+        "Cell":  "F68",
+        "Formula":  "=C68*D68*E68"
+    },
+    {
+        "Cell":  "F69",
+        "Formula":  "=C69*D69*E69"
+    },
+    {
+        "Cell":  "F70",
+        "Formula":  "=C70*D70*E70"
+    },
+    {
+        "Cell":  "G70",
+        "Formula":  "=F68+F69+F70"
+    },
+    {
+        "Cell":  "H70",
+        "Formula":  "=C68*D68+C69+C70"
+    },
+    {
+        "Cell":  "F73",
+        "Formula":  "=C73*D73*E73"
+    },
+    {
+        "Cell":  "F74",
+        "Formula":  "=C74*D74*E74"
+    },
+    {
+        "Cell":  "F75",
+        "Formula":  "=C75*D75*E75"
+    },
+    {
+        "Cell":  "F76",
+        "Formula":  "=C76*D76*E76"
+    },
+    {
+        "Cell":  "G76",
+        "Formula":  "=F73+F74+F75+F76"
+    },
+    {
+        "Cell":  "H76",
+        "Formula":  "=C73*D73+C74+C75+C76"
+    },
+    {
+        "Cell":  "F79",
+        "Formula":  "=C79*D79*E79"
+    },
+    {
+        "Cell":  "F80",
+        "Formula":  "=C80*D80*E80"
+    },
+    {
+        "Cell":  "F81",
+        "Formula":  "=C81*D81*E81"
+    },
+    {
+        "Cell":  "F82",
+        "Formula":  "=C82*D82*E82"
+    },
+    {
+        "Cell":  "G82",
+        "Formula":  "=F79+F80+F81+F82"
+    },
+    {
+        "Cell":  "H82",
+        "Formula":  "=C79*D79+C80+C81+C82"
+    },
+    {
+        "Cell":  "F85",
+        "Formula":  "=C85*D85*E85"
+    },
+    {
+        "Cell":  "F86",
+        "Formula":  "=C86*D86*E86"
+    },
+    {
+        "Cell":  "F87",
+        "Formula":  "=C87*D87*E87"
+    },
+    {
+        "Cell":  "F88",
+        "Formula":  "=C88*D88*E88"
+    },
+    {
+        "Cell":  "G88",
+        "Formula":  "=F85+F86+F87+F88"
+    },
+    {
+        "Cell":  "H88",
+        "Formula":  "=C85*D85+C86+C87+C88"
+    },
+    {
+        "Cell":  "F91",
+        "Formula":  "=C91*D91*E91"
+    },
+    {
+        "Cell":  "F92",
+        "Formula":  "=C92*D92*E92"
+    },
+    {
+        "Cell":  "F93",
+        "Formula":  "=C93*D93*E93"
+    },
+    {
+        "Cell":  "F94",
+        "Formula":  "=C94*D94*E94"
+    },
+    {
+        "Cell":  "F95",
+        "Formula":  "=C95*D95*E95"
+    },
+    {
+        "Cell":  "F96",
+        "Formula":  "=C96*D96*E96"
+    },
+    {
+        "Cell":  "G96",
+        "Formula":  "=F91+F92+F93+F94+F95+F96"
+    },
+    {
+        "Cell":  "H96",
+        "Formula":  "=C91*D91+C92+C93+C94+C95+C96"
+    },
+    {
+        "Cell":  "F99",
+        "Formula":  "=C99*D99*E99"
+    },
+    {
+        "Cell":  "F100",
+        "Formula":  "=C100*D100*E100"
+    },
+    {
+        "Cell":  "F101",
+        "Formula":  "=C101*D101*E101"
+    },
+    {
+        "Cell":  "F102",
+        "Formula":  "=C102*D102*E102"
+    },
+    {
+        "Cell":  "F103",
+        "Formula":  "=C103*D103*E103"
+    },
+    {
+        "Cell":  "F104",
+        "Formula":  "=C104*D104*E104"
+    },
+    {
+        "Cell":  "G104",
+        "Formula":  "=F99+F100+F101+F102+F103+F104"
+    },
+    {
+        "Cell":  "H104",
+        "Formula":  "=C99*D99+C100+C101+C102+C103+C104"
+    },
+    {
+        "Cell":  "F107",
+        "Formula":  "=C107*D107*E107"
+    },
+    {
+        "Cell":  "F108",
+        "Formula":  "=C108*D108*E108"
+    },
+    {
+        "Cell":  "F109",
+        "Formula":  "=C109*D109*E109"
+    },
+    {
+        "Cell":  "F110",
+        "Formula":  "=C110*D110*E110"
+    },
+    {
+        "Cell":  "F111",
+        "Formula":  "=C111*D111*E111"
+    },
+    {
+        "Cell":  "F112",
+        "Formula":  "=C112*D112*E112"
+    },
+    {
+        "Cell":  "F113",
+        "Formula":  "=C113*D113*E113"
+    },
+    {
+        "Cell":  "G113",
+        "Formula":  "=F107+F108+F109+F110+F111+F112+F113"
+    },
+    {
+        "Cell":  "H113",
+        "Formula":  "=C107*D107+C108+C109+C110+C111+C112+C113"
+    },
+    {
+        "Cell":  "F116",
+        "Formula":  "=C116*D116*E116"
+    },
+    {
+        "Cell":  "F117",
+        "Formula":  "=C117*D117*E117"
+    },
+    {
+        "Cell":  "F118",
+        "Formula":  "=C118*D118*E118"
+    },
+    {
+        "Cell":  "F119",
+        "Formula":  "=C119*D119*E119"
+    },
+    {
+        "Cell":  "F120",
+        "Formula":  "=C120*D120*E120"
+    },
+    {
+        "Cell":  "F121",
+        "Formula":  "=C121*D121*E121"
+    },
+    {
+        "Cell":  "F122",
+        "Formula":  "=C122*D122*E122"
+    },
+    {
+        "Cell":  "F123",
+        "Formula":  "=C123*D123*E123"
+    },
+    {
+        "Cell":  "G123",
+        "Formula":  "=F116+F117+F118+F119+F120+F121+F122+F123"
+    },
+    {
+        "Cell":  "H123",
+        "Formula":  "=C116*D116+C117+C118+C119+C120+C121+C122+C123"
+    },
+    {
+        "Cell":  "F126",
+        "Formula":  "=C126*D126*E126"
+    },
+    {
+        "Cell":  "F127",
+        "Formula":  "=C127*D127*E127"
+    },
+    {
+        "Cell":  "F128",
+        "Formula":  "=C128*D128*E128"
+    },
+    {
+        "Cell":  "F129",
+        "Formula":  "=C129*D129*E129"
+    },
+    {
+        "Cell":  "F130",
+        "Formula":  "=C130*D130*E130"
+    },
+    {
+        "Cell":  "F131",
+        "Formula":  "=C131*D131*E131"
+    },
+    {
+        "Cell":  "F132",
+        "Formula":  "=C132*D132*E132"
+    },
+    {
+        "Cell":  "F133",
+        "Formula":  "=C133*D133*E133"
+    },
+    {
+        "Cell":  "F134",
+        "Formula":  "=C134*D134*E134"
+    },
+    {
+        "Cell":  "G134",
+        "Formula":  "=F126+F127+F128+F129+F130+F131+F132+F133+F134"
+    },
+    {
+        "Cell":  "H134",
+        "Formula":  "=C126*D126+C127+C128+C129+C130+C131+C132+C133+C134"
+    },
+    {
+        "Cell":  "F137",
+        "Formula":  "=C137*D137*E137"
+    },
+    {
+        "Cell":  "F138",
+        "Formula":  "=C138*D138*E138"
+    },
+    {
+        "Cell":  "F139",
+        "Formula":  "=C139*D139*E139"
+    },
+    {
+        "Cell":  "F140",
+        "Formula":  "=C140*D140*E140"
+    },
+    {
+        "Cell":  "F141",
+        "Formula":  "=C141*D141*E141"
+    },
+    {
+        "Cell":  "F142",
+        "Formula":  "=C142*D142*E142"
+    },
+    {
+        "Cell":  "F143",
+        "Formula":  "=C143*D143*E143"
+    },
+    {
+        "Cell":  "F144",
+        "Formula":  "=C144*D144*E144"
+    },
+    {
+        "Cell":  "F145",
+        "Formula":  "=C145*D145*E145"
+    },
+    {
+        "Cell":  "F146",
+        "Formula":  "=C146*D146*E146"
+    },
+    {
+        "Cell":  "G146",
+        "Formula":  "=F137+F138+F139+F140+F141+F142+F143+F144+F145+F146"
+    },
+    {
+        "Cell":  "H146",
+        "Formula":  "=C137*D137+C138+C139+C140+C141+C142+C143+C144+C145+C146"
+    }
+]

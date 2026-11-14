@@ -1,0 +1,42 @@
+﻿[
+    {
+        "Cell":  "C17",
+        "Formula":  "=AVERAGE(C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16)"
+    },
+    {
+        "Cell":  "D17",
+        "Formula":  "=AVERAGE(D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16)"
+    },
+    {
+        "Cell":  "E17",
+        "Formula":  "=AVERAGE(E5,E6,E7,E8,E9,E10,E11,E12,E13,E14,E15,E16)"
+    },
+    {
+        "Cell":  "F17",
+        "Formula":  "=AVERAGE(F5,F6,F7,F8,F9,F10,F11,F12,F13,F14,F15,F16)"
+    },
+    {
+        "Cell":  "G17",
+        "Formula":  "=AVERAGE(G5,G6,G7,G8,G9,G10,G11,G12,G13,G14,G15,G16)"
+    },
+    {
+        "Cell":  "H17",
+        "Formula":  "=AVERAGE(H5,H6,H7,H8,H9,H10,H11,H12,H13,H14,H15,H16)"
+    },
+    {
+        "Cell":  "I17",
+        "Formula":  "=AVERAGE(I5,I6,I7,I8,I9,I10,I11,I12,I13,I14,I15,I16)"
+    },
+    {
+        "Cell":  "J17",
+        "Formula":  "=AVERAGE(J5,J6,J7,J8,J9,J10,J11,J12,J13,J14,J15,J16)"
+    },
+    {
+        "Cell":  "K17",
+        "Formula":  "=AVERAGE(K5,K6,K7,K8,K9,K10,K11,K12,K13,K14,K15,K16)"
+    },
+    {
+        "Cell":  "L17",
+        "Formula":  "=AVERAGE(L5,L6,L7,L8,L9,L10,L11,L12,L13,L14,L15,L16)"
+    }
+]

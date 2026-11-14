@@ -1,0 +1,7 @@
+﻿[
+    {
+        "Name":  "DATAEQ!_FilterDatabase",
+        "RefersTo":  "=DATAEQ!$E$4:$E$24",
+        "Visible":  false
+    }
+]
